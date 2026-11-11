@@ -1,0 +1,10 @@
+# Archivos generados al ejecutar
+__pycache__/
+*.pyc
+logs/
+
+# Entornos y editores
+.venv/
+venv/
+.vscode/
+.idea/
